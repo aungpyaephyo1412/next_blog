@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Aung Pyae Phyo",
+      "email": "ooaungmyat1123@gmail.com",
+      "password": "password"
+    },
+    {
+      "name": "Chadwick Livingston",
+      "email": "bynedijase@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 2
+    },
+    {
+      "name": "Quincy Tyson",
+      "email": "dimyre@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 3
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "post_title": "Hi Hi bu lae",
+      "post_description": "lorem ispum",
+      "user_id": 1
+    }
+  ]
+}
